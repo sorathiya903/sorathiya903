@@ -136,7 +136,7 @@ Currently not maintained but the source code remains available.
 
 ### 📈 Contribution Graph
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sorathiya903&theme=github-light](https://github.com/sorathiya903)
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sorathiya903&theme=github-light)](https://github.com/sorathiya903)
 
 
 
