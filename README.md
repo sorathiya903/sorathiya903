@@ -128,7 +128,7 @@ Currently not maintained but the source code remains available.
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sorathiya903&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sorathiya903&theme=light" />
 </p>
 
 ---
@@ -136,7 +136,7 @@ Currently not maintained but the source code remains available.
 
 ### 📈 Contribution Graph
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sorathiya903&theme=github-dark)](https://github.com/sorathiya903)
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sorathiya903&theme=github-light](https://github.com/sorathiya903)
 
 
 
