@@ -128,12 +128,17 @@ Currently not maintained but the source code remains available.
 ## 📈 GitHub Statistics
 
 <p align="center">
-
-</p><p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sorathiya903&theme=tokyonight" />
 </p>
 
 ---
+
+
+### 📈 Contribution Graph
+
+[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sorathiya903&theme=github-dark)](https://github.com/sorathiya903)
+
+
 
 ## 🎯 Current Focus
 
@@ -150,7 +155,6 @@ Building Devploy, a cloud deployment platform that aims to make application depl
 📞 Phone: 9727861607
 
 💻 GitHub: https://github.com/sorathiya903
-
 
 
 ---
