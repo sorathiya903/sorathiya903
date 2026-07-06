@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Aditya Sorathiya
 
-> 🚀 Student Developer • Python Developer • Founder of Devploy
+> 🚀 Student Developer • Python Developer • Founder of PasteDB 
 
 <p>
 Building web applications, AI tools, deployment platforms, and real-world products from Vadodara, India 🇮🇳
@@ -12,6 +12,7 @@ Building web applications, AI tools, deployment platforms, and real-world produc
 ## 👨‍💻 About Me
 
 - 🎓 Class 10 Student Developer from Vadodara, India
+- 2026 : 15 years old
 - 🏆 Scored 92.86% (A1 Grade) in Class 9 while building multiple production projects
 - 🐍 Backend Developer specializing in Python, FastAPI, and Flask
 - 🌐 Build both Static and Dynamic Web Applications
