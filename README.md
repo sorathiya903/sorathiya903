@@ -13,7 +13,7 @@ Building web applications, AI tools, deployment platforms, and real-world produc
 
 - 🎓 Class 10 Student Developer from Vadodara, India
 - 2026 : 15 years old
-- 🏆 Scored 92.86% (A1 Grade) in Class 9 while building multiple production projects
+- 🏆 Scored 92.86% (A1 Grade) in Class 9 without tution or coaching while building multiple production projects
 - 🐍 Backend Developer specializing in Python, FastAPI, and Flask
 - 🌐 Build both Static and Dynamic Web Applications
 - 🔐 Experienced with JWT Authentication, Google OAuth, and Secure Login Systems
