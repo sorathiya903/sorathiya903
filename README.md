@@ -19,7 +19,7 @@ Building web applications, AI tools, deployment platforms, and real-world produc
 - 🔐 Experienced with JWT Authentication, Google OAuth, and Secure Login Systems
 - ⚡ Work with Real-Time Applications using WebSockets
 - ☁️ Deploy applications on Render, Railway, and Netlify
-- 🚀 Currently building Devploy, a lightweight deployment platform inspired by modern cloud deployment services
+- 🚀 Currently building MagicDrop, a lightweight LAN based data(text and files) transfer CLI tool
 - 💼 Available for freelance websites, landing pages, business websites, and custom web applications
 
 ---
@@ -168,6 +168,6 @@ Made with Python, FastAPI, Flask & lots of curiosity ☕
 
 **Aditya Sorathiya** • Vadodara, India 🇮🇳
 
-Last Updated • 7 June 2026
+Last Updated • 9 August 2026
 
 </div>
