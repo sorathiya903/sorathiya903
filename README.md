@@ -19,7 +19,6 @@ Building web applications, AI tools, deployment platforms, and real-world produc
 - 🔐 Experienced with JWT Authentication, Google OAuth, and Secure Login Systems
 - ⚡ Work with Real-Time Applications using WebSockets
 - ☁️ Deploy applications on Render, Railway, and Netlify
-- 🚀 Currently building MagicDrop, a lightweight LAN based data(text and files) transfer CLI tool
 - 💼 Available for freelance websites, landing pages, business websites, and custom web applications
 
 ---
@@ -140,10 +139,26 @@ Currently not maintained but the source code remains available.
 [![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sorathiya903&theme=github-light)](https://github.com/sorathiya903)
 
 
+## 🌍 Open Source Contributions
 
+### Necoz Changelog Bot (https://github.com/necoz-oss/changelog-bot)
+
+* Contribution: Audience Policy for Changelog Generation
+* PR: [https://github.com/necoz-oss/changelog-bot/pull/367](#367) — feat: add changelog audience policy
+* Status: Merged ✅
+
+### What I contributed:
+
+* Implemented `--audience all|user` CLI option.
+* Added audience-based filtering for changelog entries.
+* Integrated audience configuration into GitHub Actions.
+* Added regression tests for provider, fallback, and file-output scenarios.
+* Fixed release-section replacement during regeneration.
+
+  
 ## 🎯 Current Focus
 
-Building Devploy, a cloud deployment platform that aims to make application deployment simple, fast, and accessible.
+Building PasteDB MCP Server so that AI agents and assistants could save important snippets.
 
 ---
 
